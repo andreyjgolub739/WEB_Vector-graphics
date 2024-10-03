@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+/* SVG */
+.styled-figure circle {
+    fill: yellow;
+    stroke: orange;
+    stroke-width: 5;
+}
+.styled-figure rect {
+    fill: green;
+}
+.styled-figure polygon {
+    fill: lime;
+}
+.styled-figure{
+    circle:hover{
+        fill: black;
+        stroke: black;
+    }
+    rect:hover{
+        fill: black;
+    }
+    polygon:hover{
+        fill: black;
+    }
+=======
+/* Background SVG */
+.background{
+    background-image: url('img/planet-saturn-svgrepo-com.svg');
+    background-size: cover;
+    height: 200vh;
+    margin: 0;
+>>>>>>> 13430290d5873af5a8aae6f8b546570fdc5d9bc1
+}
